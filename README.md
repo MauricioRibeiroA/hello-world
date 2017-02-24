@@ -30,3 +30,5 @@ https://www.virustotal.com/en/documentation/public-api/
 http://stackoverflow.com/questions/9640516/rails-heroku-how-to-anti-virus-scan-uploaded-file
 
 http://www.wpbeginner.com/plugins/how-to-scan-your-wordpress-site-for-potentially-malicious-code/
+
+http://www.mikestowe.com/blog/2010/10/php-malicious-code-scanner.php
